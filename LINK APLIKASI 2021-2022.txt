@@ -1,0 +1,3 @@
+LINK APLIKASI WEB PEMBAYARAN SPP (RANDI SOLIHIN_CIA160046)
+LINK ADMIN = http://karnusspp.online/admin
+LINK SISWA = http://karnusspp.online/
